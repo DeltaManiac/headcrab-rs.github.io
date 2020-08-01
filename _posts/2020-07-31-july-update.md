@@ -54,7 +54,6 @@ This month's contributors were:
 * DeltaManiac
 * Egor Kovetskiy
 * Fábio Botelho
-* Harikrishnan Menon
 * Jakub Jendryka
 * Nikita Baksalyar
 * bjorn3
